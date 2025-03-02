@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teamcity-plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:schemas-jetbrains-com:teamcity-plugin-v1-xml">
+  <info>
+    <name>BuildControl</name>
+    <display-name>DevOps - Build Control</display-name>
+    <version>#Version#</version>
+    <description>...</description>
+    <download-url>https://repo.ROBSONsoftware.com/ui/repos/tree/General/ROBSON-atlassian-plugins-local/teamcity/BuildControl</download-url>
+    <vendor>
+      <name>ROBSON Software</name>
+      <url>https://git.ROBSONsoftware.com:8443/projects/ATLAS/repos/teamcity-build-control/browse</url>
+    </vendor>
+  </info>
+  <deployment use-separate-classloader="true"/>
+</teamcity-plugin>
